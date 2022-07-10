@@ -4,6 +4,7 @@
 
 ## Requirements:
 * Windows 11
+* Developer Mode enabled
 * Virtual Machine Platform Feature enabled
 * Microsoft UI Xaml (appx)
 * Windows Subsystem for Android (msixbundle)
