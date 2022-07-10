@@ -8,7 +8,12 @@
 * Microsoft UI Xaml (appx)
 * Windows Subsystem for Android (msixbundle)
 
-## Enable Virtual Machine Platform
+## Enable Developer Mode:
+1. Open Settings
+2. Head to Privacy and Security Settings and search for the For developers
+3. Tap on the Toggle to enable the Developer Mode and confirm it by clicking on Yes 
+
+## Enable Virtual Machine Platform:
 1. Click on Start
 2. Search for Turn Windows features on or off. Click on the first Option.
 3. Scroll down and search Virtual Machine Platform
