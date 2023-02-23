@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/hgh9b77/WSA.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/How-to-download-and-install-WSA/blob/main/WSA.png" width="200"></a>
 <h1 align="center"><b>How to download and install the Windows Subsystem for Android</b></h1>
 <br />
 
