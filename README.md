@@ -69,7 +69,7 @@ MicrosoftCorporationII.WindowsSubsystemForAndroid_2205.40000.14.0_neutral_~_8wek
 ```
 Add-AppxPackage -Path
 ```
-14. Right after the -Path Text, press the Spacebar and paste the "Copy as Path" Text from earlier using Keyboard Shortcut CTRL + V
+14. Right after the -Path Text, press the Spacebar and paste the ```Copy as Path``` Text from earlier using Keyboard Shortcut ```CTRL + V```
 
 Example: 
 ```
